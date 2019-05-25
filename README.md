@@ -67,8 +67,9 @@ When you run this script it will
 
 ## 05.04.2019 Update
 
-<p style="text-align: center;">THIS IS STIll EXPERMIENTAL USE AT YOUR OWN RISK</p>
-I recently came across having to help a coworker accomplish this task and decided to create this project since following multiple manual script lines was very error prompt (A nice follow-up of my [Original publication in Medium](https://medium.com/@hugomejia74/how-to-create-your-own-ssl-certificate-authority-for-local-https-development-3b97573c7bb5)).
+***THIS IS STIll EXPERMIENTAL USE AT YOUR OWN RISK***
+
+I recently came across having to help a coworker accomplish this task and decided to create this project since following multiple manual script lines was very error prompt ([A follow-up to my Original publication in Medium](https://medium.com/@hugomejia74/how-to-create-your-own-ssl-certificate-authority-for-local-https-development-3b97573c7bb5)).
 
 ## Known Bugs
 
