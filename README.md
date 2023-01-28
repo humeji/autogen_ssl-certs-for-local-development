@@ -10,7 +10,7 @@ You can just create your own CA (Certifying Authority) certificate. Then your se
 
 ## How to Use This Script
 
-- Clone or download a zip of this repo
+- Clone or download a zip of this repository
 - Navigate to the directory containing `generate-ssl.sh`
 - Edit the `options.conf` file to add all of the domain names you want included in the certificate
 - Edit the `certificate-authority-options.conf` file if you want to tweak the settings used to generate the certificate authority certificate (optional)
