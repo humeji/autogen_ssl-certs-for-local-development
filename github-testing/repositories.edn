@@ -3,10 +3,4 @@
 ;; Syntax errors may cause loss of data.
 
 [["https://api.github.com/repos/humeji/autogen_ssl-certs-for-local-development"
-  {:last-baseline #inst "2023-01-28T02:45:25.376-00:00",
-   :last-batch-id
-   "gen.github.baseline.e05794b4-d991-4ee3-b84e-67894db63cef",
-   :last-total 1,
-   :last-success 1,
-   :aggregdash
-   "https://hugo-targets1.solution.acrolinx.sh/api/batch/gen.github.baseline.e05794b4-d991-4ee3-b84e-67894db63cef?csBaseUrl=https%3A%2F%2Fhugo-targets1.solution.acrolinx.sh&X-Acrolinx-Client-Locale=en"}]]
+  nil]]
