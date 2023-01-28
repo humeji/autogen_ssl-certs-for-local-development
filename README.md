@@ -1,6 +1,6 @@
 # Generate Self-Signed SSL Certificates - version 1.1
 
-***For Local Development on a macOS PC***
+**For Local Development on a macOS PC**
 
 ***Have you ever needed to test or develop on WebApps using HTTPS locally?***
 
